@@ -1,0 +1,2 @@
+# wechat_bot_wenxinyiyan
+基于文心一言的微信个人用户机器人
