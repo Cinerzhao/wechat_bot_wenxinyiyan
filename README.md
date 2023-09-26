@@ -1,4 +1,8 @@
-# wechat_bot_wenxinyiyan
+### 2023.9.26更新 V1.1.0
+增加了动态白名单写入功能
+增加了聊天日志记录功能
+
+### wechat_bot_wenxinyiyan
 基于文心一言的微信个人用户机器人,只有对白名单聊天回复的功能
 
 安装itchat-uos,一定要是1.5.0.dev0版本，不然会报错
